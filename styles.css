@@ -51,6 +51,15 @@ img {
     height: 31;
     width: 88
 }
+#email_container {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+#email_container img {
+    height: 25px;
+}
 #main_content, #projects, #links {
     margin-bottom: 10px;
     /* padding-left: 2px; */
